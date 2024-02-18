@@ -1,0 +1,24 @@
+
+.ui-sortable tr.alternate {
+	background-color: #F9F9F9;	
+}
+.ui-sortable tr.ui-sortable-helper {
+	background-color: #F9F9F9;
+	border-top: 1px solid #DFDFDF;
+}
+.ui-sortable-placeholder {
+	display: none;
+}
+.widefat .check-column{
+	width: 60px;
+}
+.icon_sort{
+	text-align: center;
+	padding: 5px;
+	cursor: move;
+}
+@media (max-width: 768px) {
+    .icon_sort {
+      display: none;
+    }
+}
