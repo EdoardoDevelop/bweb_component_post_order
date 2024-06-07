@@ -22,3 +22,6 @@
       display: none;
     }
 }
+.check-column label{
+	position:  relative !important;
+}
